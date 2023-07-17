@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clg7nogif000608mc67c1h18z/stats?cursusId=21&coalitionId=66" alt="vterroso's 42 stats" /></a>
+
 <!--
 **Vterroso/Vterroso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
